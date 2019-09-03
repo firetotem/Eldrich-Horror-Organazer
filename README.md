@@ -10,7 +10,7 @@
 
 ### Investigator Tablet
 
-![Investigator tablet](3d-model/Investigator-Tablet/Investigator-Tablet.jpg)
+![Investigator tablet](3d-model/Investigator-Tablet/Investigator-Tablet.JPG)
 
 ### Some Components
 
